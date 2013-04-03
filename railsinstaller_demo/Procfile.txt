@@ -1,3 +1,0 @@
-#added following instructions on heroke
-
-web: bundle exec rackup config.ru -p $PORT
